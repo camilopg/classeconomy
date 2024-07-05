@@ -1,0 +1,2 @@
+# classeconomy
+dataclass
